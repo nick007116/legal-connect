@@ -1,0 +1,10 @@
+Flask==3.0.0
+Flask-Session==0.4.0
+firebase-admin==7.4.0
+pyrebase4==4.6.0
+google-generative-ai==0.4.1
+gunicorn==22.0.0
+python-dotenv==1.0.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+Flask-Pyrebase==0.0.4
